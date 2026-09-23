@@ -188,9 +188,9 @@ Especially in teams building real products and solving meaningful technical prob
 
 🤝 Let's Connect
 
-LinkedIn: Mahmoud Ramzy
-Portfolio: Mahmoud Ramzy
-GitHub: Mahmoud-Ramzy
+LinkedIn: [Mahmoud Ramzy](https://www.linkedin.com/in/mahmoud-ramzy-8861aa234)
+Portfolio: [Mahmoud Ramzy](https://mahmoud-ramzy.github.io/Portofolio/)
+GitHub: [Mahmoud-Ramzy](https://github.com/Mahmoud-Ramzy)
 
 📍 Alexandria, Egypt
 
