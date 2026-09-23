@@ -28,39 +28,39 @@ Languages
 
 "Python" <img hight="50" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+"JavaScript" <img hight="50" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> 
+"TypeScript" <img hight="50" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> 
+"HTML5" <img hight="50" alt="python" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
+"CSS3" <img hight="50" alt="python" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />  
 
 AI / Machine Learning
 
-"Python" (https://img.shields.io/badge/Python-ML-3776AB?style=flat-square&logo=python&logoColor=white)
-"TensorFlow" (https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-"Computer Vision" (https://img.shields.io/badge/Computer_Vision-333333?style=flat-square)
-"Deep Learning" (https://img.shields.io/badge/Deep_Learning-333333?style=flat-square)
-"LLM" (https://img.shields.io/badge/LLM_Applications-333333?style=flat-square)
+"Python" <img hight="50" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+"TensorFlow" <img hight="50" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> 
+"Computer Vision" <img hight="50" alt="Computer-Vision" src="https://img.shields.io/badge/Computer_Vision-333333?style=flat-square" /> 
+"Deep Learning" <img hight="50" alt="Deep-Learning" src="https://img.shields.io/badge/Deep_Learning-333333?style=flat-square" />
+"LLM" <img hight="50" alt="LLM" src="https://img.shields.io/badge/LLM_Applications-333333?style=flat-square" />
 
 Frontend
 
-"React" (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-"Vite" (https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-"Tailwind CSS" (https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-"Next.js" (https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+"React" <img hight="50" alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />   
+"Vite" <img hight="50" alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />  
+"Tailwind CSS" <img hight="50" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> 
+"Next.js" <img hight="50" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> 
 
 Backend & Data
 
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-"Express" (https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-"REST API" (https://img.shields.io/badge/REST_APIs-333333?style=flat-square)
+"Node.js" <img hight="50" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> 
+"Express" <img hight="50" alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />  
+"MySQL" <img hight="50" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
+"REST API" <img hight="50" alt="REST-API" src="https://img.shields.io/badge/REST_APIs-333333?style=flat-square" />
 
 Tools & Engineering
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+"Git" <img hight="50" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />  
+"GitHub" <img hight="50" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> 
+"Docker" <img hight="50" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> 
+"Linux" <img hight="50" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
 ---
 
